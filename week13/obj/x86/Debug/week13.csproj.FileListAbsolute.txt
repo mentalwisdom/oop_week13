@@ -1,0 +1,8 @@
+C:\Users\iot\Desktop\week13\week13\bin\Debug\week13.exe
+C:\Users\iot\Desktop\week13\week13\bin\Debug\week13.pdb
+C:\Users\iot\Desktop\week13\week13\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iot\Desktop\week13\week13\obj\x86\Debug\week13.MainForm.resources
+C:\Users\iot\Desktop\week13\week13\obj\x86\Debug\week13.csproj.GenerateResource.Cache
+C:\Users\iot\Desktop\week13\week13\obj\x86\Debug\week13.exe
+C:\Users\iot\Desktop\week13\week13\obj\x86\Debug\week13.pdb
+C:\Users\iot\Desktop\week13\week13\bin\Debug\MySql.Data.dll
